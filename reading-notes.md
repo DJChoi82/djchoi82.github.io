@@ -17,6 +17,9 @@ permalink: /reading-notes/
 ## Code 401 - Advanced Software Development
 
 
+[Link to my github page](https://github.com/DJChoi82/DJChoi82)
+
+
 
 
 
