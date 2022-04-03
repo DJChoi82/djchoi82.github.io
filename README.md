@@ -5,13 +5,15 @@ permalink: /reading-notes/
 
 # Reading Notes
 
+Hello! My name is **DJ Choi**. This page is the notes I wrote for the readings done for classes.
+
 ## Code 102 - Intro to Software Development
 ```markdown
-Class 1.
+Class 1
 
 System restore can be used to revert back to a saved point. Restore points can be created in windows manually or can be set to create automatically. This topic is very important as the clients data is sacred and backups and restore points are needed if anything happens.
 
-Class 2.
+Class 2
 
 Github can be used to build, ship, and maintain software. Offers free and paid products for storing code.
 
@@ -19,7 +21,7 @@ Visual studio code is a source code editor. It supports many extensions. It is a
 
 Both of these topics are important as it will be used as a cybersecurity professional. It can be used to create and store automated scripts.
 
-Class 3.
+Class 3
 
 Help desk professionals are the face of the IT staff. The help desk is the first line of support for the company. Many other skills are needed to be a help desk professional that not only includes technical skills. Soft skills are also needed as they deal with many users.
 
@@ -57,7 +59,9 @@ Windows registry stores configuration files for Windows and programs. Hidden fea
 
 Registry edits are important as many hidden features can be enabled. A system admin can disable certain users to use a certain program or not let them shutdown the computer.
 
-Class 9 A standard operating procedure (SOP) is a procedure that is written for your company on things should be done. It is important as it is the policies of the company. SOPs need to be simple and readable.
+Class 9 
+
+A standard operating procedure (SOP) is a procedure that is written for your company on things should be done. It is important as it is the policies of the company. SOPs need to be simple and readable.
 
 This is important as system admins may need to write many SOPs.
 
@@ -254,6 +258,8 @@ Authentication is for logon and authorization is what a user can do. Authorizati
 
 ## Code 401 - Advanced Software Development
 
+
+### Links
 
 [Link to my github page](https://github.com/DJChoi82/DJChoi82)
 
