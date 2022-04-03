@@ -1,5 +1,5 @@
 ---
-title: "Reading Notes"
+title: "Reading Notes DJ"
 permalink: /reading-notes/
 ---
 
