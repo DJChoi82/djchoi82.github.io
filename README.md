@@ -5,7 +5,10 @@ permalink: /reading-notes/
 
 # Reading Notes
 
-Hello! My name is **DJ Choi**. This page is the notes I wrote for the readings done for classes.
+Hello! My name is **DJ Choi**. 
+![](https://drive.google.com/file/d/12ajMWVyUiLJmc9vlSp5crI8ARyWp8EOv/view?usp=sharing)
+
+This page is the notes I wrote for the readings done for classes.
 
 ## Code 102 - Intro to Software Development
 ```markdown
